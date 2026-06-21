@@ -49,4 +49,8 @@ O livro trata dos principais fundamentos da arquitetura de software, como:
 - **Autores:** Mark Richards & Neal Ford  
 - **Editora:** O’Reilly / Novatec  
 
+## 📘 Livro
+
+<img src="img/Livro.png" width="300px">
+
 ---
