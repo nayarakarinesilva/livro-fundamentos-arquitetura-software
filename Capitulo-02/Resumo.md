@@ -38,10 +38,16 @@ Para um arquiteto, a amplitude é mais importante do que a profundidade. Isso ex
 - **Radar Tecnológico Pessoal** -> Criar um radar inspirado no da Thoughtworks para formalizar a avaliação de novas ferramentas, linguagens e técnicas.
 
 ## 4. Análise Profunda de Trade-offs
+O capítulo reforça que "não existem respostas certas ou erradas na arquitetura — apenas trade-offs"
 
+Para ilustrar, os autores usam um exemplo de sistema de leilão comparando o uso de Filas (ponto a ponta) versus Tópicos (pub/sub). Enquanto tópicos oferecem melhor extensibilidade e desacoplamento, eles trazem riscos de segurança e dificuldades de monitoramento que as filas mitigam.
+
+Pensar como arquiteto significa analisar não apenas os benefícios, mas também as consequências negativas de cada escolha
 
 ## 5. Compreensão dos Drivers de Negócio
 
+Arquitetos devem ser capazes de traduzir os objetivos de sucesso do negócio (ex: tempo de lançamento no mercado) em características técnicas da arquitetura, como escalabilidade, performance e disponibilidade.
 
 ## 6. Equilíbrio com a Programação
 
+Apesar de focar na estratégia, o arquiteto deve manter habilidades práticas, escrevendo código de qualidade de produção sempre que possível, evitando criar "arquiteturas de torre de marfim" que não funcionam na prática

@@ -15,7 +15,7 @@ A arquitetura de software é composta por 4 partes:
 
 ---
 
-## ⚖️ Leis da Arquitetura de Software
+## Leis da Arquitetura de Software
 
 ### 1ª Lei: *“Tudo na arquitetura é um trade-off”*
 
