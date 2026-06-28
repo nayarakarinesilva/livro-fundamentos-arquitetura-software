@@ -57,16 +57,12 @@ O capítulo destaca duas recomendações importantes:
 - Preferir formas mais fracas de conascência sempre que possível.
 - Quanto maior a distância entre os componentes, menor deve ser a dependência entre eles.
 
-## Módulos e Componentes
+## Conclusão
 
-No final do capítulo, os autores explicam que, na prática, os módulos são chamados de componentes, que representam os blocos de construção de um sistema.
-
-A identificação correta desses componentes é essencial para construir uma arquitetura bem organizada e será aprofundada nos próximos capítulos.
-
-De modo geral, o capítulo mostra que uma boa modularidade depende do equilíbrio entre:
+De forma geral, o capítulo mostra que uma boa modularidade depende de:
 
 - Alta coesão;
 - Baixo acoplamento;
-- Uso adequado da conascência.
+- Pouca conascência entre os módulos.
 
-Esses conceitos contribuem para o desenvolvimento de sistemas mais organizados, reutilizáveis e fáceis de evoluir e manter ao longo do tempo.
+Seguindo esses conceitos, fica mais fácil desenvolver sistemas organizados, reutilizar código e fazer mudanças sem causar muitos problemas.
