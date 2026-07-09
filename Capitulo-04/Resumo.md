@@ -28,3 +28,8 @@ O livro divide essas características em alguns grupos:
 Um dos pontos mais interessantes do capítulo é que nem sempre é possível ter todas as características no melhor nível. Por exemplo, um sistema muito seguro pode ficar mais lento, e um sistema muito fácil de modificar pode custar mais para ser desenvolvido.
 
 Por isso, o objetivo não é criar uma arquitetura perfeita, mas sim encontrar a melhor solução possível para cada situação. Os autores chamam isso de **"arquitetura menos pior"**, ou seja, fazer escolhas e equilibrar os pontos positivos e negativos de acordo com as necessidades do projeto, o tempo disponível e o orçamento.
+
+
+## Discusão do livro:
+
+![alt text](image.png)

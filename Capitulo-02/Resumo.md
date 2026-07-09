@@ -51,3 +51,7 @@ Arquitetos devem ser capazes de traduzir os objetivos de sucesso do negócio (ex
 ## 6. Equilíbrio com a Programação
 
 Apesar de focar na estratégia, o arquiteto deve manter habilidades práticas, escrevendo código de qualidade de produção sempre que possível, evitando criar "arquiteturas de torre de marfim" que não funcionam na prática
+
+
+## Discusão do livro:
+![alt text](image.png)

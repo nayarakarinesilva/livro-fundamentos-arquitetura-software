@@ -66,3 +66,16 @@ De forma geral, o capítulo mostra que uma boa modularidade depende de:
 - Pouca conascência entre os módulos.
 
 Seguindo esses conceitos, fica mais fácil desenvolver sistemas organizados, reutilizar código e fazer mudanças sem causar muitos problemas.
+
+## 💡 Lembrete
+
+Uma forma simples de visualizar esses conceitos é pensar em um sistema de loja:
+
+- **Modularidade:** dividir o sistema em módulos como Usuários, Produtos e Pedidos.
+- **Granularidade:** decidir o tamanho ideal de cada módulo.
+- **Coesão:** cada módulo deve fazer apenas o que é sua responsabilidade.
+- **Acoplamento:** um módulo deve depender do mínimo possível dos outros.
+- **Conascência:** evitar que uma pequena mudança obrigue alterações em vários lugares do sistema.
+
+## Discusão do livro:
+![alt text](image.png)

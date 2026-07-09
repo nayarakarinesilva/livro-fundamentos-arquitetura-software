@@ -62,3 +62,7 @@ A principal mensagem do capítulo é que uma boa arquitetura não deve depender 
 - Ser **governada**, de preferência por meio de verificações automáticas.
 
 Além disso, gostei da ideia dos checklists, pois eles mostram que pequenas verificações feitas de forma consistente podem evitar muitos problemas e ajudar tanto desenvolvedores quanto arquitetos a manter a qualidade do software.
+
+## Discusão do livro:
+
+![alt text](image.png)
