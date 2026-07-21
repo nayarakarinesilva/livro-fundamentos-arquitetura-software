@@ -255,13 +255,13 @@ Cada etapa possui apenas uma responsabilidade.
 
 | Característica | Avaliação | Observação |
 |----------------|-----------|------------|
-| 💰 Custo Geral | ⭐ | Baixo custo para desenvolver e manter. |
-| 😊 Simplicidade | ⭐⭐⭐⭐ | Fácil de entender e implementar. |
-| 🧩 Modularidade | ⭐⭐⭐ | Cada filtro pode ser alterado sem afetar os demais. |
-| 📈 Escalabilidade | ⭐ | Não é ideal para sistemas muito grandes. |
-| 🧪 Testabilidade | ⭐⭐⭐ | Cada filtro pode ser testado separadamente. |
-| 🚀 Facilidade de Deploy | ⭐⭐ | Geralmente toda a aplicação é publicada junta. |
-| 🛡️ Tolerância a Falhas | ⭐ | Se um filtro falhar, o fluxo pode parar. |
+| **Custo Geral** | ⭐ | Baixo custo para desenvolver e manter. |
+| **Simplicidade** | ⭐⭐⭐⭐ | Fácil de entender e implementar. |
+| **Modularidade** | ⭐⭐ | Cada filtro pode ser alterado sem afetar os demais. |
+| **Escalabilidade** | ⭐ | Não é ideal para sistemas muito grandes. |
+| **Testabilidade** | ⭐⭐⭐ | Cada filtro pode ser testado separadamente. |
+| **Facilidade de Deploy** | ⭐⭐ | Geralmente toda a aplicação é publicada junta. |
+| **Tolerância a Falhas** | ⭐ | Se um filtro falhar, o fluxo pode parar. |
 
 ---
 
