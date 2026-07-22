@@ -199,3 +199,10 @@ Seu maior diferencial é a **simplicidade**, tornando-a uma excelente escolha pa
 Por outro lado, conforme o sistema cresce, esse estilo tende a apresentar problemas de **escalabilidade**, **desempenho** e **manutenção**, especialmente quando ocorre o antipadrão **Sinkhole**, em que as camadas apenas repassam chamadas sem executar qualquer lógica.
 
 Em geral, é uma ótima opção para sistemas simples, mas deixa de ser a melhor escolha quando a aplicação precisa de alto desempenho, evolução constante ou grande capacidade de crescimento.
+
+
+# Leitura com clube
+
+<div align="start">
+  <img src="./images/image.png" width="600">
+</div>

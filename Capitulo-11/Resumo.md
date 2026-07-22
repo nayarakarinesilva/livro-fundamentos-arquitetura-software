@@ -323,3 +323,9 @@ Cada módulo possui sua própria responsabilidade, tornando o sistema mais organ
 Apesar dessa organização, todos os módulos continuam fazendo parte da mesma aplicação, sendo compilados, executados e publicados juntos.
 
 É uma excelente escolha para equipes que desejam um código organizado e de fácil manutenção, sem assumir toda a complexidade de uma arquitetura baseada em microserviços. Entretanto, quando o sistema precisa crescer muito ou escalar partes específicas da aplicação, essa arquitetura pode deixar de ser a melhor opção.
+
+# Leitura com clube
+
+<div align="start">
+  <img src="./images/image.png" width="600">
+</div>

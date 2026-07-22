@@ -104,3 +104,17 @@ O Capítulo 9 mostra que escolher um estilo de arquitetura vai muito além da te
 - Como as equipes irão trabalhar.
 - A dificuldade de manter o sistema.
 - Os desafios de comunicação, principalmente em arquiteturas distribuídas.
+
+
+# Leitura com clube
+<div align="start">
+  <img src="./images/image-1.png" width="600">
+</div>
+
+<div align="start">
+  <img src="./images/image-1.png" width="600">
+</div>
+
+<div align="start">
+  <img src="./images/image-2.png" width="600">
+</div>
