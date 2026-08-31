@@ -1,4 +1,4 @@
-## Capítulo 16 — Arquitetura Baseada em Espaço
+# Capítulo 16 — Arquitetura Baseada em Espaço
 
 A **Arquitetura Baseada em Espaço (Space-Based Architecture)** é um estilo de arquitetura criado para resolver problemas de **escalabilidade** e de **muitos acessos ao mesmo tempo**.
 
