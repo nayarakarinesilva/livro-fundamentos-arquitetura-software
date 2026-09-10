@@ -374,3 +374,10 @@ Serviços se comunicam por APIs ou eventos
 ### ⚠️ Principal cuidado:
 
 > **Microserviços aumentam a independência, mas também aumentam a complexidade.**
+
+---
+# Discusão do livro:
+
+![alt text](image.png)
+
+![alt text](image-1.png)
