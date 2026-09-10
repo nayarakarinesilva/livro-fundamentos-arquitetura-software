@@ -661,3 +661,10 @@ Por isso, um dos principais aprendizados do capítulo é:
 ### Reuso é bom, mas reuso excessivo pode gerar acoplamento.
 
 E esse problema ajudou a motivar arquiteturas mais modernas, como os **microserviços**, que procuram dar mais autonomia para cada serviço.
+
+---
+
+# Discusão do livro:
+![alt text](image.png)
+
+![alt text](image-1.png)
